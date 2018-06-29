@@ -1,0 +1,20 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "testing dynamic input forms",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Me",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "body-parser": "",
+        "cors": "^2.8.4",
+        "express": "",
+        "express-myconnection": "^1.0.4",
+        "method-override": "2.3.10",
+        "mysql": ""
+    },
+    "devDependencies": {}
+}
